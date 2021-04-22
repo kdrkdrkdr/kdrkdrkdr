@@ -6,7 +6,7 @@
 <a href="/https://rss.blog.naver.com/powerapollon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/rss.svg" alt="https://rss.blog.naver.com/powerapollon" height="30" width="40" /></a>
 </p>
 
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/kdrkdrkdr/github-readme-stats)
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kdrkdrkdr)](https://github.com/kdrkdrkdr/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">

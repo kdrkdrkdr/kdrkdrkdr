@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
-<a href="/https://rss.blog.naver.com/powerapollon" target="blank">
+<a href="/https://blog.naver.com/powerapollon" target="blank">
   <img align="center" src="https://blogpfthumb-phinf.pstatic.net/MjAyMTA0MTFfODkg/MDAxNjE4MTMzNTg3Njcy.zCkpb-WufCkQq2e7hPdn87nWRJShipBfDrlbpD6zZhYg.H9QLJUGHMR1XUPeV9f_fBTxp0-sCfjxOEhS_pEjKqAEg.JPEG.powerapollon/profileImage.jpg?type=w161" alt="https://blog.naver.com/powerapollon" height="30" width="40" /></a>
 </p>
 

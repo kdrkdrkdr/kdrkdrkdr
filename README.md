@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm kdr</h1>
-<h3 align="left">A passionate student developer in Korea (age=18)</h3>
+<h3 align="left">A passionate student developer in Korea (age=19)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,3 +28,9 @@
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   </a> 
 </p>
+
+<h3 align="left">Studying Now!</h3>
+<p align="left">
+  <a href="https://docs.microsoft.com/ko-kr/xamarin/get-started/what-is-xamarin" target="_blank"> 
+    <img src="https://user-images.githubusercontent.com/49074597/149548604-16ac8c42-d056-482b-968f-91ccb0f59346.png" alt="Xamarin (C#) for Android" width="40" height="40"/> 
+  </a> 

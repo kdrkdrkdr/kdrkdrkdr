@@ -34,3 +34,6 @@
   <a href="https://docs.microsoft.com/ko-kr/xamarin/get-started/what-is-xamarin" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/49074597/149548604-16ac8c42-d056-482b-968f-91ccb0f59346.png" alt="Xamarin (C#) for Android" width="40" height="40"/> 
   </a> 
+  
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkdrkdrkdr&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

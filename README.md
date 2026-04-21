@@ -59,4 +59,4 @@ Co-founder of [**El Nino**](https://elnino.kr), building [**Knoc**](https://elni
 
 ## 🎓 Education
 
-- [**Hanyang University**](http://cs.hanyang.ac.kr/), Seoul, South Korea — B.S. in Computer Software *(Mar 2023 – Present, Leave of Absence since Jul 2024)*
+- [**Hanyang University**](http://cs.hanyang.ac.kr/), Seoul, South Korea — B.S. in Computer Science *(Mar 2023 – Present, Leave of Absence since Jul 2024)*

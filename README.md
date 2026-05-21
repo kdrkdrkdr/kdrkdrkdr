@@ -17,7 +17,8 @@ Co-founder of [**El Nino**](https://elnino.kr), building [**Knoc**](https://elni
   [[DOI]](https://doi.org/10.5281/zenodo.19646514) [[supertonic.embed]](https://github.com/kdrkdrkdr/supertonic.embed) [[kokoro.embed]](https://github.com/kdrkdrkdr/kokoro.embed)
 
 ## 💼 Experience
-
+- **NC AI** *(Seongnam, South Korea)* — Data Engineer, Contract *(May 2026 – )*
+  Data Engineering for Multimodal AI Training
 - **Yonsei University Health System (YUHS)** *(Seoul, South Korea)* — Research Engineer *(Mar 2025 – Oct 2025)*
   Led dev for NGS clinical report pipeline & SICU false-alarm monitoring desktop app.
 - **NCSOFT** *(Seongnam, South Korea)* — Audio Data Engineer, Contract *(Jul 2024 – Jan 2025)*

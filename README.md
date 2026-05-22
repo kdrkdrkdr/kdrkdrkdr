@@ -18,7 +18,7 @@ Co-founder of [**El Nino**](https://elnino.kr), building [**Knoc**](https://elni
 
 ## 💼 Experience
 - **NC AI** *(Seongnam, South Korea)* — Data Engineer, Contract *(May 2026 – )*
-  Data Engineering for Multimodal AI Training
+  Data Engineering and Model Optimization for Multimodal AI Training/Inference
 - **Yonsei University Health System (YUHS)** *(Seoul, South Korea)* — Research Engineer *(Mar 2025 – Oct 2025)*
   Led dev for NGS clinical report pipeline & SICU false-alarm monitoring desktop app.
 - **NCSOFT** *(Seongnam, South Korea)* — Audio Data Engineer, Contract *(Jul 2024 – Jan 2025)*

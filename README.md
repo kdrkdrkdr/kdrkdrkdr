@@ -15,18 +15,20 @@ I optimize AI models — LLM · TTS · ASR · voice conversion · speech enhance
 - **faster-enhancer.c: A Dependency-Free int8 Runtime for Streaming Speech Enhancement on Commodity CPUs**
   **Gyeongmin Kim.** arXiv:2607.25350, Jul 2026.
   [[arXiv]](https://arxiv.org/abs/2607.25350) [[code]](https://github.com/kdrkdrkdr/faster-enhancer.c)
-- **Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**
-  **Gyeongmin Kim.** arXiv:2607.25351, Jul 2026.
-  [[arXiv]](https://arxiv.org/abs/2607.25351) [[code]](https://github.com/kdrkdrkdr/supertonic.embed)
 
 **Under review**
 
+- **Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**
+  **Gyeongmin Kim.** Submitted to ICASSP 2027. arXiv:2607.25351.
+  [[arXiv]](https://arxiv.org/abs/2607.25351) [[code]](https://github.com/kdrkdrkdr/supertonic.embed)
 - **Why One Small Fixed Tree Suffices: The Cost Geometry of Draft Trees for a Multi-Token-Prediction Drafter**
   **Gyeongmin Kim**, Ayoung Moon, Seung Jin Lee. Under review, 2026.
 
 ## 💼 Experience
 
-- **NC AI** *(Seongnam, South Korea)* — Data Engineering Team *(May 2026 – )*
+- **Shenzhen Flysounds Medical Technology** *(Shenzhen, China, Remote)* — Freelance *(Aug 2026 – )*
+  Inference optimization and C kernel development for on-device AI models.
+- **NC AI** *(Seongnam, South Korea)* — Data Engineering Team *(May 2026 – Aug 2026)*
   LLM inference optimization & serving — MoE quantization (W8A16), speculative decoding for a data-generation pipeline, and a distributed vLLM serving gateway in Go.
 - **Yonsei University Health System (YUHS)** *(Seoul, South Korea)* — Research Engineer *(Mar 2025 – Oct 2025)*
   Led dev for NGS clinical report pipeline & SICU false-alarm monitoring desktop app.

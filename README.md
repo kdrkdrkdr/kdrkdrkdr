@@ -21,8 +21,6 @@ I optimize AI models — LLM · TTS · ASR · voice conversion · speech enhance
 - **Extracting Voice Styles from Frozen TTS Models via Gradient-Based Inverse Optimization**
   **Gyeongmin Kim.** Submitted to ICASSP 2027. arXiv:2607.25351.
   [[arXiv]](https://arxiv.org/abs/2607.25351) [[code]](https://github.com/kdrkdrkdr/supertonic.embed)
-- **Why One Small Fixed Tree Suffices: The Cost Geometry of Draft Trees for a Multi-Token-Prediction Drafter**
-  **Gyeongmin Kim**, Ayoung Moon, Seung Jin Lee. Under review, 2026.
 
 ## 💼 Experience
 

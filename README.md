@@ -24,6 +24,8 @@ I optimize AI models — LLM · TTS · ASR · voice conversion · speech enhance
 
 ## 💼 Experience
 
+- **Neosapience** *(Seoul, South Korea)* — AI Research Division *(Oct 2026 – Present)*
+  Speech AI Engineer — large-scale speech data processing pipelines and model inference for ASR/TTS.
 - **Shenzhen Flysounds Medical Technology** *(Shenzhen, China, Remote)* — Freelance *(Aug 2026 – )*
   Inference optimization and C kernel development for on-device AI models.
 - **NC AI** *(Seongnam, South Korea)* — Data Engineering Team *(May 2026 – Aug 2026)*
